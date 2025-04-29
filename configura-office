@@ -1,1 +1,1 @@
-curl -o c:\Users\$env:username\Downloads\setup.exe https://officecdn.microsoft.com/pr/wsus/setup.exe
+curl -o c:\Users\TIXIT\Downloads\setup.exe https://officecdn.microsoft.com/pr/wsus/setup.exe
